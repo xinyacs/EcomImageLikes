@@ -1,0 +1,78 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="aiopg" />
+          <option value="annotated-doc" />
+          <option value="annotated-types" />
+          <option value="anyio" />
+          <option value="APScheduler" />
+          <option value="argon2-cffi" />
+          <option value="argon2-cffi-bindings" />
+          <option value="async-timeout" />
+          <option value="better-profanity" />
+          <option value="cachetools" />
+          <option value="certifi" />
+          <option value="cffi" />
+          <option value="charset-normalizer" />
+          <option value="click" />
+          <option value="colorama" />
+          <option value="et_xmlfile" />
+          <option value="exceptiongroup" />
+          <option value="fastapi" />
+          <option value="h11" />
+          <option value="httpcore" />
+          <option value="httpx" />
+          <option value="httpx-sse" />
+          <option value="idna" />
+          <option value="minio" />
+          <option value="numpy" />
+          <option value="openpyxl" />
+          <option value="pandas" />
+          <option value="peewee" />
+          <option value="peewee-async" />
+          <option value="pgvector" />
+          <option value="psycopg2-binary" />
+          <option value="pycparser" />
+          <option value="pycryptodome" />
+          <option value="pydantic" />
+          <option value="pydantic_core" />
+          <option value="python-dateutil" />
+          <option value="pytz" />
+          <option value="requests" />
+          <option value="six" />
+          <option value="sniffio" />
+          <option value="starlette" />
+          <option value="StrEnum" />
+          <option value="tqdm" />
+          <option value="typing-inspection" />
+          <option value="typing_extensions" />
+          <option value="tzdata" />
+          <option value="tzlocal" />
+          <option value="urllib3" />
+          <option value="uvicorn" />
+          <option value="sqlalchemy" />
+          <option value="asyncpg" />
+          <option value="pydantic-settings" />
+          <option value="python-jose" />
+          <option value="python-multipart" />
+          <option value="alembic" />
+          <option value="aiohttp" />
+          <option value="aiobotocore" />
+          <option value="diskcache" />
+          <option value="Pillow" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
